@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**metrisamarth626-art/metrisamarth626-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I am Samarth Metri, a computer science student interested in web development and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am currently building a Local Event Finder web application that shows free community events near the user's location using APIs.
+
+
+- HTML
+- CSS
+- JavaScript
+- Geolocation API
+- Ticketmaster API
+- VS Code
+
+
+Email: yourname@email.com  
+GitHub: https://github.com/yourusername
