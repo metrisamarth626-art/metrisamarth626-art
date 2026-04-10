@@ -15,5 +15,3 @@ I am currently building a Local Event Finder web application that shows free com
 - VS Code
 
 
-Email: yourname@email.com  
-GitHub: https://github.com/yourusername
